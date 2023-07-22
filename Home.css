@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("https://assets.nicepagecdn.com/e3d14ee2/5443035/images/capatemplates.png");
+  background-image: url("https://assets.nicepagecdn.com/e3d14ee2/5443035/images/capasite2.png");
   background-position: 50% 50%;
 }
 
@@ -186,6 +186,15 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1141px;
+  }
+
+  .u-section-2 .u-list-1 {
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
+
   .u-section-2 .u-image-1 {
     height: 214px;
     margin-right: initial;
